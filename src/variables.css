@@ -1,6 +1,6 @@
 html.dark {
   --app-name-text-color: #FFF;
-  --background-color: #152438;
+  --background-color: #0D1116;
   --primary-text-color: #FFF;
   --primary-hover-text-color: #b1b1b1;
   --secondary-text-color: #a2a7ad;
@@ -14,8 +14,8 @@ html.dark {
   --scrollbar-accent-color: #6c6e71;
 
   /** Buttons **/
-  --button-background-color: #1C2026 ;
-  --button-text-color: #FFF ;
+  --button-background-color: #1C2026;
+  --button-text-color: #FFF;
 
   /**Card **/
   --card-background-color: #0D1116;
